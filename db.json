@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "BenjoA2345",
+      "createdAt": 1709407999762,
+      "updatedAt": 1709407999762,
+      "name": "Jons Jam",
+      "id": "e72d"
+    }
+  ],
+  "products": []
+}
