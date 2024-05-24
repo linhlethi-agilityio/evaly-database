@@ -19,7 +19,7 @@
     {
       "id": "2",
       "sku": "1264",
-      "name": "Apple iPhone 13pro",
+      "name": "Apple iPhone 13 pro",
       "price": 320
     },
     {
@@ -38,7 +38,7 @@
       "id": "5",
       "sku": "0374",
       "name": "Apple iPhone 15 plus",
-      "price": 1000
+      "price": 999
     }
   ]
 }
